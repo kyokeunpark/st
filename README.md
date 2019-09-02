@@ -8,14 +8,15 @@ Here are some of the features that are added on top of st:
 - Xresources support
 - scrollback
 - alpha (transparency) support 
+- Boxdraw support
 - default theme is [Gruvbox](https://github.com/morhetz/gruvbox)
 - default font is [Adobe's Source Code Pro](https://github.com/adobe-fonts/source-code-pro) 
     (planning to change this to system mono font later)
-- Boxdraw support
 
 Here are some useful bindings:
 
 - Copy / paste: Shift + Ctrl + c/v
+- Zoom in / out: Shift + Ctrl + k/
 
 ## Installation
 
