@@ -10,7 +10,8 @@ Here are some of the features that are added on top of st:
 - alpha (transparency) support 
 - default theme is [Gruvbox](https://github.com/morhetz/gruvbox)
 - default font is [Adobe's Source Code Pro](https://github.com/adobe-fonts/source-code-pro) 
-(planning to change this to system mono font later)
+    (planning to change this to system mono font later)
+- Boxdraw support
 
 Here are some useful bindings:
 
