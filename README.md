@@ -16,7 +16,7 @@ Here are some of the features that are added on top of st:
 Here are some useful bindings:
 
 - Copy / paste: Shift + Ctrl + c/v
-- Zoom in / out: Shift + Ctrl + k/
+- Zoom in / out: Shift + Ctrl + k/j
 
 ## Installation
 
