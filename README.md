@@ -23,6 +23,5 @@ Here are some useful bindings:
 So far, this is only confirmed to work on Linux-based systems.
 
 ```
-make
 sudo make install
 ```
