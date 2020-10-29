@@ -1,2 +1,5 @@
 st
 *.o
+*.orig
+*.rej
+*.desktop
