@@ -5,10 +5,12 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Source Code Pro for Powerline:pixelsize=12:antialias=true:autohint=true";
+static char *font = "Fira Mono:pixelsize=12:antialias=true:autohint=true";
 /* Spare fonts */
 static char *font2[] = {
+	"Source Code Pro for Powerline:pixelsize=12:antialias=true:autohint=true",
 	"SauceCodePro Nerd Font:pixelsize=12:antialias=true:autohint=true",
+	// "Source Code Pro for Powerline:pixelsize=12:antialias=true:autohint=true",
 };
 
 static int borderpx = 2;

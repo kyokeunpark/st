@@ -3,3 +3,4 @@ st
 *.orig
 *.rej
 *.desktop
+config.h
